@@ -6,9 +6,13 @@
 
 ## 📱 App Screenshots Showcase
 
-| Dashboard & Balance | Voice Expense Input | Financial Reports |
+| Dashboard | Transactions | Reports |
 | :---: | :---: | :---: |
-| ![Dashboard Showcase](assets/screenshots/dashboard.png) | ![Voice Input Showcase](assets/screenshots/voice_input.png) | ![Reports Showcase](assets/screenshots/reports.png) |
+| <img src="assets/screenshots/dashboard.png" width="260"/> | <img src="assets/screenshots/transactions.png" width="260"/> | <img src="assets/screenshots/reports.png" width="260"/> |
+
+| Profile / Account | Notifications Center |
+| :---: | :---: |
+| <img src="assets/screenshots/profile.png" width="260"/> | <img src="assets/screenshots/notifications.png" width="260"/> |
 
 ---
 
