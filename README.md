@@ -1,4 +1,4 @@
-# 👛 Walleta (وليتة) — Personal Finance Management App
+# 👛 Walleta  — Personal Finance Management App
 
 **Walleta** is a sleek, modern, personal finance management mobile application built with **Flutter** and **Dart**. Designed with an Arabic-first Right-To-Left (RTL) interface and a dark-mode fintech aesthetic, Walleta helps users effortlessly track expenses, manage budgets, analyze spending trends, and log expenses using **voice recognition simulation** and **AI-powered insights**.
 
