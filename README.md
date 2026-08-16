@@ -8,11 +8,11 @@
 
 | Dashboard | Transactions | Reports |
 | :---: | :---: | :---: |
-| <img src="assets/screenshots/dashboard.png" width="260"/> | <img src="assets/screenshots/transactions.png" width="260"/> | <img src="assets/screenshots/reports.png" width="260"/> |
+| <img src="./assets/screenshots/dashboard.png" width="260" alt="Dashboard"/> | <img src="./assets/screenshots/transactions.png" width="260" alt="Transactions"/> | <img src="./assets/screenshots/reports.png" width="260" alt="Reports"/> |
 
 | Profile / Account | Notifications Center |
 | :---: | :---: |
-| <img src="assets/screenshots/profile.png" width="260"/> | <img src="assets/screenshots/notifications.png" width="260"/> |
+| <img src="./assets/screenshots/profile.png" width="260" alt="Profile / Account"/> | <img src="./assets/screenshots/notifications.png" width="260" alt="Notifications Center"/> |
 
 ---
 

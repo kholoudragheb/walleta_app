@@ -31,7 +31,7 @@ class ProfileScreen extends StatelessWidget {
                 ),
                 child: const Center(
                   child: Text(
-                    'و',
+                    'خ',
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 32,
@@ -42,7 +42,7 @@ class ProfileScreen extends StatelessWidget {
               ),
               const SizedBox(height: 12),
               const Text(
-                'ويلو',
+                'خلود',
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 20,
@@ -51,7 +51,7 @@ class ProfileScreen extends StatelessWidget {
               ),
               const SizedBox(height: 4),
               const Text(
-                'welo@email.com',
+                'khloudragheb3@gmail.com',
                 style: TextStyle(
                   color: AppColors.textSecondary,
                   fontSize: 14,
